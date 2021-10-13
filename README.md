@@ -9,7 +9,7 @@ Created: Mar. 15, 2019
 cd $HOME
 
 # Clone DS Setup Repo
-git clone https://github.com/darwill/ds_setup.git
+git clone https://github.com/derivalytics1/setup.git
 
 # Initial Update
 sudo apt-get -y update
